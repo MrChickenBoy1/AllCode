@@ -6,7 +6,8 @@ i = len(List1)
 
 for e in range (0, i, 2):
     print (e)
-    x = List1[e]
+    asdasd
+    x = List1[e]asdasdsa
     List2.append(x)
     
 

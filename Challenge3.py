@@ -4,7 +4,7 @@ List2 = ["A", "B", "B"]
 x = 0
 Len = len(List2)
 for i in range(0, Len):
-    print ()
+    print ("hi")
     ele = List2[x]
     List1.append(ele)
     x += 1
