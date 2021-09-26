@@ -1,0 +1,80 @@
+/home/chickendev/Documents/c#/bin/Debug/net5.0/c#
+/home/chickendev/Documents/c#/bin/Debug/net5.0/c#.deps.json
+/home/chickendev/Documents/c#/bin/Debug/net5.0/c#.runtimeconfig.json
+/home/chickendev/Documents/c#/bin/Debug/net5.0/c#.runtimeconfig.dev.json
+/home/chickendev/Documents/c#/bin/Debug/net5.0/c#.dll
+/home/chickendev/Documents/c#/bin/Debug/net5.0/ref/c#.dll
+/home/chickendev/Documents/c#/bin/Debug/net5.0/c#.pdb
+/home/chickendev/Documents/c#/obj/Debug/net5.0/c#.csproj.AssemblyReference.cache
+/home/chickendev/Documents/c#/obj/Debug/net5.0/c#.GeneratedMSBuildEditorConfig.editorconfig
+/home/chickendev/Documents/c#/obj/Debug/net5.0/c#.AssemblyInfoInputs.cache
+/home/chickendev/Documents/c#/obj/Debug/net5.0/c#.AssemblyInfo.cs
+/home/chickendev/Documents/c#/obj/Debug/net5.0/c#.csproj.CoreCompileInputs.cache
+/home/chickendev/Documents/c#/obj/Debug/net5.0/c#.dll
+/home/chickendev/Documents/c#/obj/Debug/net5.0/ref/c#.dll
+/home/chickendev/Documents/c#/obj/Debug/net5.0/c#.pdb
+/home/chickendev/Documents/c#/obj/Debug/net5.0/c#.genruntimeconfig.cache
+/home/chickendev/Documents/All C# programs/c# (copy)/bin/Debug/net5.0/c#
+/home/chickendev/Documents/All C# programs/c# (copy)/bin/Debug/net5.0/c#.deps.json
+/home/chickendev/Documents/All C# programs/c# (copy)/bin/Debug/net5.0/c#.runtimeconfig.json
+/home/chickendev/Documents/All C# programs/c# (copy)/bin/Debug/net5.0/c#.runtimeconfig.dev.json
+/home/chickendev/Documents/All C# programs/c# (copy)/bin/Debug/net5.0/c#.dll
+/home/chickendev/Documents/All C# programs/c# (copy)/bin/Debug/net5.0/ref/c#.dll
+/home/chickendev/Documents/All C# programs/c# (copy)/bin/Debug/net5.0/c#.pdb
+/home/chickendev/Documents/All C# programs/c# (copy)/obj/Debug/net5.0/c#.csproj.AssemblyReference.cache
+/home/chickendev/Documents/All C# programs/c# (copy)/obj/Debug/net5.0/c#.GeneratedMSBuildEditorConfig.editorconfig
+/home/chickendev/Documents/All C# programs/c# (copy)/obj/Debug/net5.0/c#.AssemblyInfoInputs.cache
+/home/chickendev/Documents/All C# programs/c# (copy)/obj/Debug/net5.0/c#.AssemblyInfo.cs
+/home/chickendev/Documents/All C# programs/c# (copy)/obj/Debug/net5.0/c#.csproj.CoreCompileInputs.cache
+/home/chickendev/Documents/All C# programs/c# (copy)/obj/Debug/net5.0/c#.dll
+/home/chickendev/Documents/All C# programs/c# (copy)/obj/Debug/net5.0/ref/c#.dll
+/home/chickendev/Documents/All C# programs/c# (copy)/obj/Debug/net5.0/c#.pdb
+/home/chickendev/Documents/All C# programs/c# (copy)/obj/Debug/net5.0/c#.genruntimeconfig.cache
+/home/chickendev/Documents/All C# programs/random number guesser/bin/Debug/net5.0/c#
+/home/chickendev/Documents/All C# programs/random number guesser/bin/Debug/net5.0/c#.deps.json
+/home/chickendev/Documents/All C# programs/random number guesser/bin/Debug/net5.0/c#.runtimeconfig.json
+/home/chickendev/Documents/All C# programs/random number guesser/bin/Debug/net5.0/c#.runtimeconfig.dev.json
+/home/chickendev/Documents/All C# programs/random number guesser/bin/Debug/net5.0/c#.dll
+/home/chickendev/Documents/All C# programs/random number guesser/bin/Debug/net5.0/ref/c#.dll
+/home/chickendev/Documents/All C# programs/random number guesser/bin/Debug/net5.0/c#.pdb
+/home/chickendev/Documents/All C# programs/random number guesser/obj/Debug/net5.0/c#.csproj.AssemblyReference.cache
+/home/chickendev/Documents/All C# programs/random number guesser/obj/Debug/net5.0/c#.GeneratedMSBuildEditorConfig.editorconfig
+/home/chickendev/Documents/All C# programs/random number guesser/obj/Debug/net5.0/c#.AssemblyInfoInputs.cache
+/home/chickendev/Documents/All C# programs/random number guesser/obj/Debug/net5.0/c#.AssemblyInfo.cs
+/home/chickendev/Documents/All C# programs/random number guesser/obj/Debug/net5.0/c#.csproj.CoreCompileInputs.cache
+/home/chickendev/Documents/All C# programs/random number guesser/obj/Debug/net5.0/c#.dll
+/home/chickendev/Documents/All C# programs/random number guesser/obj/Debug/net5.0/ref/c#.dll
+/home/chickendev/Documents/All C# programs/random number guesser/obj/Debug/net5.0/c#.pdb
+/home/chickendev/Documents/All C# programs/random number guesser/obj/Debug/net5.0/c#.genruntimeconfig.cache
+/home/chickendev/Documents/All C# programs/calc/obj/Debug/net5.0/c#.csproj.AssemblyReference.cache
+/home/chickendev/Documents/All C# programs/calc/obj/Debug/net5.0/c#.GeneratedMSBuildEditorConfig.editorconfig
+/home/chickendev/Documents/All C# programs/calc/obj/Debug/net5.0/c#.AssemblyInfoInputs.cache
+/home/chickendev/Documents/All C# programs/calc/obj/Debug/net5.0/c#.AssemblyInfo.cs
+/home/chickendev/Documents/All C# programs/calc/obj/Debug/net5.0/c#.csproj.CoreCompileInputs.cache
+/home/chickendev/Documents/All C# programs/calc/obj/Debug/net5.0/c#.dll
+/home/chickendev/Documents/All C# programs/calc/obj/Debug/net5.0/ref/c#.dll
+/home/chickendev/Documents/All C# programs/calc/obj/Debug/net5.0/c#.pdb
+/home/chickendev/Documents/All C# programs/calc/bin/Debug/net5.0/c#
+/home/chickendev/Documents/All C# programs/calc/bin/Debug/net5.0/c#.deps.json
+/home/chickendev/Documents/All C# programs/calc/bin/Debug/net5.0/c#.runtimeconfig.json
+/home/chickendev/Documents/All C# programs/calc/bin/Debug/net5.0/c#.runtimeconfig.dev.json
+/home/chickendev/Documents/All C# programs/calc/bin/Debug/net5.0/c#.dll
+/home/chickendev/Documents/All C# programs/calc/bin/Debug/net5.0/ref/c#.dll
+/home/chickendev/Documents/All C# programs/calc/bin/Debug/net5.0/c#.pdb
+/home/chickendev/Documents/All C# programs/calc/obj/Debug/net5.0/c#.genruntimeconfig.cache
+/home/chickendev/Documents/All C# programs/grid/obj/Debug/net5.0/c#.csproj.AssemblyReference.cache
+/home/chickendev/Documents/All C# programs/grid/obj/Debug/net5.0/c#.GeneratedMSBuildEditorConfig.editorconfig
+/home/chickendev/Documents/All C# programs/grid/obj/Debug/net5.0/c#.AssemblyInfoInputs.cache
+/home/chickendev/Documents/All C# programs/grid/obj/Debug/net5.0/c#.AssemblyInfo.cs
+/home/chickendev/Documents/All C# programs/grid/obj/Debug/net5.0/c#.csproj.CoreCompileInputs.cache
+/home/chickendev/Documents/All C# programs/grid/obj/Debug/net5.0/c#.dll
+/home/chickendev/Documents/All C# programs/grid/obj/Debug/net5.0/ref/c#.dll
+/home/chickendev/Documents/All C# programs/grid/obj/Debug/net5.0/c#.pdb
+/home/chickendev/Documents/All C# programs/grid/bin/Debug/net5.0/c#
+/home/chickendev/Documents/All C# programs/grid/bin/Debug/net5.0/c#.deps.json
+/home/chickendev/Documents/All C# programs/grid/bin/Debug/net5.0/c#.runtimeconfig.json
+/home/chickendev/Documents/All C# programs/grid/bin/Debug/net5.0/c#.runtimeconfig.dev.json
+/home/chickendev/Documents/All C# programs/grid/bin/Debug/net5.0/c#.dll
+/home/chickendev/Documents/All C# programs/grid/bin/Debug/net5.0/ref/c#.dll
+/home/chickendev/Documents/All C# programs/grid/bin/Debug/net5.0/c#.pdb
+/home/chickendev/Documents/All C# programs/grid/obj/Debug/net5.0/c#.genruntimeconfig.cache
