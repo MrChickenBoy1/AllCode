@@ -4,7 +4,7 @@ from pygame import mixer
 import os
 
 
-pygame.init()
+pygame.init()fdsfsfsdfdsf
 Window = pygame.display.set_mode((500, 500))
 
 def redraw():
