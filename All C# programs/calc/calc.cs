@@ -7,9 +7,7 @@ namespace Calc
     class Input
     {
         static void Main()
-        {
-            Console.WriteLine("test");
-            
+        {            
                     
             Console.WriteLine("---------- + for Addition | - for Subtraction | / for Division | X for Multiplication ----------");
             Console.WriteLine("---------- = for answer ----------");
